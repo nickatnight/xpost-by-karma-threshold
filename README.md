@@ -1,6 +1,6 @@
-# :robot_face: xpost-by-karma-threshold
+# :space_invader: xpost-by-karma-threshold
 
-A base project for creating Reddit bots
+A [bot](https://www.reddit.com/r/RequestABot/comments/h79nxv/a_bot_that_automatially_crossposts_every_post/) that automatially crossposts every post where a user has less than the required karma threshold to a different subreddit
 
 ## Usage
 
